@@ -5,8 +5,8 @@ Control the **Subway Surfers** game using your hand gestures in real time via we
 ---
 
 ## 🎮 Demo
-<video controls src="Screen Recording 2025-04-09 183150.mp4" title="Title"></video>
-<video controls src="output.mp4" title="Title"></video>
+- click to watch demo video(https://github.com/brij26/Gesture-Controlled-Subway-Surfer-Game/blob/main/output.mp4)
+
 
 
 ---
