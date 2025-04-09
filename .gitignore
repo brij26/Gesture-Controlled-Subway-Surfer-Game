@@ -1,0 +1,23 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env/
+.hand_gesture/
+hand_gesture/
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# Ignore saved models or checkpoints
+saved_models/
+*.h5
+*.pkl
+*.pt
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
